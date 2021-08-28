@@ -5,4 +5,4 @@ Dead player dragging for ESX Framekwok.
 
 
 
-No support!
+No support! If you want support, join my Discord server. https://discord.gg/9ua6Fx46ZB
