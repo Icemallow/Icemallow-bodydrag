@@ -1,5 +1,5 @@
 # Icemallow-Body-Drag
-Dead player dragging for ESX Framekwok.
+Dead player dragging for ESX Framework.
 > Personal use only.
 > Feel free to convert any framework.
 
