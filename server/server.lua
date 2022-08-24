@@ -1,7 +1,3 @@
-ESX = nil
-TriggerEvent('esx:getSharedObject', function(obj) ESX = obj end)
-
-
 RegisterServerEvent('icemallow-drag-server:attach')
 AddEventHandler('icemallow-drag-server:attach', function(Player)
 	TriggerClientEvent('icemallow-drag:attach', Player, source)
